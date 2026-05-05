@@ -15,3 +15,4 @@ Potentiometer
 
 You would probably need to upload a new DXF since the one I provided may be corrupt. Find it by searching "Batman Dark Knight DXF file download" on Google.
 
+NTR (Note to reviewer): The 3D model of the PCB is corrupted, thats why itll look like a square.
