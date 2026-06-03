@@ -2,6 +2,8 @@
 
 ## A flashing batarang PCB! Has some errors like silkscreen but bypassable and still works.
 
+<img width="1248" height="696" alt="{530C01D4-B11D-4B39-917B-B9EEF0230EA8}" src="https://github.com/user-attachments/assets/f72a3f8d-ff4c-4066-930c-5cd49d17db47" />
+
 ### BOM:
 10x LED Lights of your choice.
 NE555P
@@ -12,7 +14,3 @@ Resistor
 Potentiometer
 
 ---
-
-You would probably need to upload a new DXF since the one I provided may be corrupt. Find it by searching "Batman Dark Knight DXF file download" on Google.
-
-NTR (Note to reviewer): The 3D model of the PCB is corrupted, thats why itll look like a square.
